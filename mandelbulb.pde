@@ -6,7 +6,6 @@ PeasyCam cam;
 void setup() {
   size(600, 600);
   // windowMove(1200, 100);
-  windowMove(1200, 100);
   cam = new PeasyCam(this, 1500);
 }
 
@@ -27,5 +26,5 @@ void draw() {
 }
 
 /*
-  VIDEO https://www.youtube.com/watch?v=NJCiUVGiNyA
+  VIDEO https://youtu.be/NJCiUVGiNyA
 */

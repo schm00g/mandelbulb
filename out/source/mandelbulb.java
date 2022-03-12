@@ -25,7 +25,6 @@ PeasyCam cam;
  public void setup() {
   /* size commented out by preprocessor */;
   // windowMove(1200, 100);
-  windowMove(1200, 100);
   cam = new PeasyCam(this, 1500);
 }
 
@@ -44,6 +43,10 @@ PeasyCam cam;
     }
   }
 }
+
+/*
+  VIDEO 
+*/
 
 
   public void settings() { size(600, 600); }
