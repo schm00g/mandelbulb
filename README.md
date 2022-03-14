@@ -1,5 +1,7 @@
 # MandelBulb
 
+wtf is a [Mandelbulb](https://en.wikipedia.org/wiki/Mandelbulb)? - think 3D Mandelbrot set.
+
 ![point cloud](https://github.com/schm00g/mandelbulb/blob/main/point-cloud.gif)
 
 ![mandelbulb](https://github.com/schm00g/mandelbulb/blob/main/mandelbulb.gif)
