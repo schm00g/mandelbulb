@@ -5,7 +5,7 @@ PeasyCam cam;
 
 void setup() {
   size(600, 600);
-  // windowMove(1200, 100);
+  windowMove(1200, 100);
   cam = new PeasyCam(this, 1500);
 }
 
